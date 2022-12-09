@@ -1,0 +1,51 @@
+.contact input {
+	line-height: 30px;
+}
+
+.workflow-item:before {
+	width:0; height:0;
+	content:none;
+}
+.ienum {
+  background: url(../img/numie.png) center center no-repeat;
+  color: #ffffff;
+  display:block;
+  position:absolute;
+  width:20px; height:20px;
+  text-align: center;
+  border-radius: 10px;
+  left:25%;
+}
+
+.portfolio .description { 
+	background: url(../img/iebackgr.png);	
+}
+.shadow {
+  background: url(../img/iebackgr.png);
+}
+
+
+body .btn {
+   
+    padding: 5px 0;
+}
+
+body .contact .btn  { 
+  padding: 0px 0;
+}
+
+.workflow .workflow-item {
+  margin-top:0;
+  padding-bottom:0;
+}
+
+.winhead {
+  top:0;
+  right:0;
+  background: url(../img/close.png) center center no-repeat;
+  cursor: pointer;
+  border:none;
+  border-radius: 25px
+  
+
+}
